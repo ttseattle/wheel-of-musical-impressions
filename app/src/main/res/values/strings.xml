@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wheel of Musical Impressions</string>
+
+    <string name="welcome">MUSICAL IMPRESSIONS GENERATOR</string>
+    <string name="songText">Song name</string>
+    <string name="artistText">Artist name</string>
+    <string name="addSongs">Add Songs</string>
+    <string name="addArtists">Add Artists</string>
+    <string name="songListTitle">SONG BANK</string>
+    <string name="artistListTitle">ARTIST BANK</string>
+    <string name="spinTheWheel">Spin the Wheel</string>
+    <string name="songLabel">SONG</string>
+    <string name="artistLabel">ARTIST</string>
+    <string name="action_settings">Settings</string>
+</resources>
